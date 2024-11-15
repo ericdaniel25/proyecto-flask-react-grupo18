@@ -10,6 +10,7 @@ const ListUserDelate = () => {
   };
   const deleteCharacter = () => {
   };
+  
   return (
     <>
       <div className={styles.cuerpo_pg}>
